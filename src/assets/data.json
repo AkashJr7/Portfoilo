@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "date": "01/05/2023",
+      "title": "ChatBot",
+      "description": "created a chatbot using chatgpt 3.5.0 api key in react frame work",
+      "url": "https://github.com/AkashJr7/Project-1-PBL-",
+      "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+    },
+
+    {
+      "date": "05/01/2024",
+      "title": "Expert System",
+      "description": "Created an intelligent expert system for Airline Scheduling using Python GUI",
+      "url": "https://github.com/AkashJr7/Project-2-AI-",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+    },
+    
+    
+    {
+      "date": "01/04/2024",
+      "title": "PORTFOLIO",
+      "description": "Simple Web Application of my personal portfolio ",
+      "url": "/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+    }
+  ]
+}
